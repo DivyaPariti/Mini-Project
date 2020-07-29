@@ -1,2 +1,2 @@
-# Stop-Watch-
-This is a simple JavaScript Project I did as a part of Lets Upgrade JavaScript learning.
+# Stop-Watch
+This is a simple JavaScript Project as a part of Lets Upgrade JavaScript learning.
